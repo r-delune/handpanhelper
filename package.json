@@ -9,5 +9,12 @@
   },
   "devDependencies": {
     "nuxt": "^3.2.3"
+  },
+  "dependencies": {
+    "@mdi/font": "^7.1.96",
+    "pitchy": "^4.0.7",
+    "sass": "^1.58.3",
+    "vuetify": "^3.1.4",
+    "web-audio-daw": "^4.13.2"
   }
 }
